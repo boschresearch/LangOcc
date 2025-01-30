@@ -1,0 +1,5 @@
+matplotlib
+packaging
+prettytable
+scikit-image
+Wand

@@ -1,0 +1,12 @@
+Third Party Licenses
+====================
+
+-------------------------------------------------------------------------
+Overview
+--------------------------------------------------------------------------
+
+BEVDet: https://github.com/HuangJunJie2017/BEVDet
+License: Apache-2.0 license
+
+MaskCLIP: https://github.com/chongzhou96/MaskCLIP
+License: Apache-2.0 license
