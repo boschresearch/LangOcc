@@ -78,6 +78,7 @@ model = dict(
     class_embeddings_path=f'{embeddings_root}/{embedding_model}',
     vocabulary_version=vocabulary_version,
     reducer_cfg=reducer_cfg,
+    use_templates=True,
     img_backbone=dict(
         type='ResNet',
         depth=50,

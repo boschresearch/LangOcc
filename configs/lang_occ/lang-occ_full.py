@@ -75,6 +75,7 @@ model = dict(
     eval_threshold_range=eval_threshold_range,
     class_embeddings_path=f'{embeddings_root}/{embedding_model}',
     vocabulary_version=vocabulary_version,
+    use_templates=True,
     img_backbone=dict(
         type='ResNet',
         depth=50,
